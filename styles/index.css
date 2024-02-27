@@ -1,0 +1,17 @@
+main h1{
+    color: #CF831C;
+    background-color: #1E1B1C;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+main img{
+    width: 100%;
+    height: 700px;
+    margin: 0px;
+    margin-bottom: 0;
+    padding: 0px;
+    display: flex;
+}
